@@ -1,2 +1,2 @@
-# node-database-template
-Boilerplate para aplicações node com banco de dados
+# node-template
+Sistema para repositório de currículos latte
